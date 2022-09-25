@@ -1,5 +1,0 @@
-Tipos de modificadores
-Public - Qq classe de qq pct poderá acessar o atributo ou o método
-Protected - Qq classe definida no mesmo pct ou subclasse
-Sem modificador  - Apenas classes definidas no mesmo pacote
-Private - Apenas a própria classe
