@@ -1,0 +1,32 @@
+Git pull : comando de atualização do repositório ;
+
+Git clone (link do repositório GitHub): usado para clonar o repositório presente no github ;
+
+Git log –oneline: mostra todas as alterações realizadas no projeto ;
+
+Git log –author=”user_name” : pesquisa as informações do autor do commit;
+
+Git status: mostra o status e alterações realizadas no projeto ;
+
+Git commit (nome do arquivo) -m “(mensagem do commit)” : comando para fazer o commit do arquivo alterado no desktop;
+
+Git push origin main: envia todos os commits alterações realizadas no repositório local para o repositório central no GitHub;
+
+Diff : a diferença entre versões
+
+Git restore –source (código do commit) (nome do arquivo) ou (.): que vai fazer a restauração do código para o momento do commit informado.
+
+Branches são ramificações da aplicação
+
+Git checkout -b (nome da pasta a ser criada no projeto): comando para criar o branche
+
+Git push origin (nome do branche o qual deve ser incluído o commit)
+
+Para enviar o projeto de desenvolvimento para o projeto principal deve ser feito por meio do comando merge
+
+Git branch: comando para visualizar todas as branches que possui no projeto.
+
+Git switch main: volta para a branch principal
+
+Git merge (nome da branch de desenvolvimento): comando para que una as alterações feitas no branch de desenvolvimento no branch principal ou main.
+
